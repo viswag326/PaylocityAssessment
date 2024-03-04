@@ -1,0 +1,5 @@
+2024-02-10T12:21:17.4967930+05:30  [INF] Now listening on: "https://localhost:7124" (d826f4b8)
+2024-02-10T12:21:17.5118674+05:30  [INF] Now listening on: "http://localhost:5124" (d826f4b8)
+2024-02-10T12:21:17.5455373+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2024-02-10T12:21:17.5526752+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2024-02-10T12:21:17.5598127+05:30  [INF] Content root path: "C:\Users\ADMIN\Documents\GitHub\PaylocityBackEndChallengeSeed-main 2\PaylocityBackEndAssignment\PaylocityBenefitsCalculator\Api\" (b5d60022)
